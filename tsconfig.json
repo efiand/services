@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"allowImportingTsExtensions": true,
+		"module": "ESNext",
+		"moduleResolution": "bundler",
+		"noEmit": true,
+		"paths": {
+			"#lib/*": ["./app/lib/*"]
+		},
+		"strict": true,
+		"target": "ESNext"
+	}
+}

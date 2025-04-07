@@ -1,0 +1,18 @@
+# Generated
+node_modules
+
+# Env
+.env
+
+# Log files
+*.log*
+logs
+
+# Editor directories and files
+*.http
+.vscode/*
+
+# Cache
+*cache*
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+{
+	"watch": ["app"],
+	"exec": "dotenvx run -- node --experimental-transform-types  .",
+	"ext": "ts"
+}
